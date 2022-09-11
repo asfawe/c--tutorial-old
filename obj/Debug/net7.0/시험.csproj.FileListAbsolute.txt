@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\시험\obj\Debug\net7.0\시험.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\시험\obj\Debug\net7.0\시험.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\시험\obj\Debug\net7.0\시험.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\시험\obj\Debug\net7.0\시험.AssemblyInfo.cs
+C:\Users\user\Desktop\시험\obj\Debug\net7.0\시험.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\시험\bin\Debug\net7.0\시험.exe
+C:\Users\user\Desktop\시험\bin\Debug\net7.0\시험.deps.json
+C:\Users\user\Desktop\시험\bin\Debug\net7.0\시험.runtimeconfig.json
+C:\Users\user\Desktop\시험\bin\Debug\net7.0\시험.dll
+C:\Users\user\Desktop\시험\bin\Debug\net7.0\시험.pdb
+C:\Users\user\Desktop\시험\obj\Debug\net7.0\시험.dll
+C:\Users\user\Desktop\시험\obj\Debug\net7.0\refint\시험.dll
+C:\Users\user\Desktop\시험\obj\Debug\net7.0\시험.pdb
+C:\Users\user\Desktop\시험\obj\Debug\net7.0\시험.genruntimeconfig.cache
+C:\Users\user\Desktop\시험\obj\Debug\net7.0\ref\시험.dll
